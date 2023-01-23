@@ -88,9 +88,69 @@ const BLOG = {
     {
       name:'トリカゴ',
       artist:'XX:me',
-      url:'http://m10.music.126.net/20230123142119/e192f685d68be304cc893148ee1dd5c4/ymusic/6ab5/08b9/f9ff/3b736e86a82cb7071102d108e762420b.mp3',
-      cover:''
-    }
+      url:'http://music.163.com/song/media/outer/url?id=547971231.mp3',
+      cover:'https://p1.music.126.net/gWAve6Vnbv0vd6WKa3tGSA==/109951163173817656.jpg'
+    },
+    {
+      name:'only my railgun',
+      artist:'fripSide',
+      url:'http://music.163.com/song/media/outer/url?id=33255251.mp3',
+      cover:'https://p1.music.126.net/Ra94yXNxP0tVM2AOUlXNAA==/7976956860786195.jpg'
+    },
+    {
+      name:'SOUVENIR',
+      artist:'BUMP OF CHICKEN',
+      url:'http://music.163.com/song/media/outer/url?id=1980763299.mp3',
+      cover:'https://p2.music.126.net/qi_XiqLxjK2pg4dwymOfRQ==/109951167870983272.jpg'
+    },
+    {
+      name:'トリカゴ：Torikago',
+      artist:'XX:me',
+      url:'http://music.163.com/song/media/outer/url?id=553930832.mp3',
+      cover:'https://p1.music.126.net/TnSHMUAgCr-Xu0uJglOwdQ==/109951163254125253.jpg'
+    },
+    {
+      name:'In The Shadow Of The Sun',
+      artist:'Professor Green',
+      url:'http://music.163.com/song/media/outer/url?id=29412405.mp3',
+      cover:'https://p1.music.126.net/v9vylpINJPbjjhfGdWd1Zw==/2534374302157990.jpg'
+    },
+    {
+      name:'Lover (Remix)',
+      artist:'Taylor Swift / Shawn Mendes',
+      url:'http://music.163.com/song/media/outer/url?id=1403250178.mp3',
+      cover:'https://p2.music.126.net/Kn3_QaCQyCXYzrpYZOV70w==/109951164485490984.jpg'
+    },
+    {
+      name:'Riot Call (feat. Nevve) (Lex Inception Remix)',
+      artist:'QUIX / Nevve / Lex Inception',
+      url:'http://music.163.com/song/media/outer/url?id=489998920.mp3',
+      cover:'https://p2.music.126.net/RN-ISSEdiZSDe96CBkdZ5g==/109951164482543562.jpg'
+    },
+    {
+      name:'Shadows',
+      artist:'Aero Chord / Nevve',
+      url:'http://music.163.com/song/media/outer/url?id=544000236.mp3',
+      cover:'https://p1.music.126.net/fgXbj_K8d9fb8A3i0ofOAA==/109951163311541324.jpg'
+    },
+    {
+      name:'Him & I',
+      artist:'G-Eazy/Halsey',
+      url:'http://music.163.com/song/media/outer/url?id=521418812.mp3',
+      cover:'https://p1.music.126.net/QOHDj8-hrkjXzn4MOyLA3Q==/109951165983411205.jpg'
+    },
+    {
+      name:'hope is a dangerous thing for a woman like me to have - but I have it',
+      artist:'Lana Del Rey',
+      url:'http://music.163.com/song/media/outer/url?id=1338268110.mp3',
+      cover:'https://p2.music.126.net/ew6QpV46N-3IDyC4IxjNwQ==/109951163783216379.jpg'
+    },
+    {
+      name:'Summertime Sadness',
+      artist:'Lana Del Rey',
+      url:'http://music.163.com/song/media/outer/url?id=3025202.mp3',
+      cover:'https://p1.music.126.net/TJjjK6ai68IhvN04ZxJmTg==/109951163077703748.jpg'
+    },
     /*{
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
