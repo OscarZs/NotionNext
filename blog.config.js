@@ -86,6 +86,12 @@ const BLOG = {
   MUSIC_PLAYER_ORDER: 'list', // 默认播放方式，顺序 list，随机 random
   MUSIC_PLAYER_AUDIO_LIST: [ // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name:'トリカゴ',
+      artist:'XX:me',
+      url:'http://m10.music.126.net/20230123142119/e192f685d68be304cc893148ee1dd5c4/ymusic/6ab5/08b9/f9ff/3b736e86a82cb7071102d108e762420b.mp3',
+      cover:''
+    }
+    /*{
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
@@ -96,7 +102,7 @@ const BLOG = {
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
       cover: 'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    }
+    }*/
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || true, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_SERVER || 'netease', // 音乐平台，[netease, tencent, kugou, xiami, baidu]
