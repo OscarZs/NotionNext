@@ -104,10 +104,16 @@ const BLOG = {
       cover:'https://p2.music.126.net/qi_XiqLxjK2pg4dwymOfRQ==/109951167870983272.jpg'
     },
     {
-      name:'トリカゴ：Torikago',
-      artist:'XX:me',
-      url:'http://music.163.com/song/media/outer/url?id=553930832.mp3',
-      cover:'https://p1.music.126.net/TnSHMUAgCr-Xu0uJglOwdQ==/109951163254125253.jpg'
+      name:'気ままな天使たち?',
+      artist:'わたてん☆5',
+      url:'http://music.163.com/song/media/outer/url?id=1342955099.mp3',
+      cover:'p1.music.126.net/6iE3kljekUgTQTvD3l0ukA==/109951166004097589.jpg'
+    },
+    {
+      name:'Are You Winning Son?',
+      artist:'Day by Dzve',
+      url:'http://music.163.com/song/media/outer/url?id=1461666438.mp3',
+      cover:'https://p2.music.126.net/B6BAtwpEEQqM4NM8scIv0w==/109951165125713116.jpg'
     },
     {
       name:'In The Shadow Of The Sun',
@@ -152,11 +158,17 @@ const BLOG = {
       cover:'https://p1.music.126.net/TJjjK6ai68IhvN04ZxJmTg==/109951163077703748.jpg'
     },
     {
-      name:'Are You Winning Son?',
-      artist:'Day by Dzve',
-      url:'http://music.163.com/song/media/outer/url?id=1461666438.mp3',
-      cover:'https://p2.music.126.net/B6BAtwpEEQqM4NM8scIv0w==/109951165125713116.jpg'
+      name:'ハッピー・ハッピー・フレンズ',
+      artist:'わたてん☆5',
+      url:'http://music.163.com/song/media/outer/url?id=1342955098.mp3',
+      cover:'https://p1.music.126.net/6iE3kljekUgTQTvD3l0ukA==/109951166004097589.jpg'
     },
+    {
+      name:'トリカゴ：Torikago',
+      artist:'XX:me',
+      url:'http://music.163.com/song/media/outer/url?id=553930832.mp3',
+      cover:'https://p1.music.126.net/TnSHMUAgCr-Xu0uJglOwdQ==/109951163254125253.jpg'
+    },    
     /*{
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
