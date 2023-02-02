@@ -110,6 +110,12 @@ const BLOG = {
       cover:'p1.music.126.net/6iE3kljekUgTQTvD3l0ukA==/109951166004097589.jpg'
     },
     {
+      name:'君の神様になりたい。',
+      artist:'こはならむ',
+      url:'http://music.163.com/song/media/outer/url?id=1987994846.mp3',
+      cover:'https://p1.music.126.net/SNANZcu5PhfvFvM5Fuq_Rw==/109951167964524207.jpg'
+    },
+    {
       name:'Are You Winning Son?',
       artist:'Day by Dzve',
       url:'http://music.163.com/song/media/outer/url?id=1461666438.mp3',
