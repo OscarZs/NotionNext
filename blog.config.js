@@ -92,6 +92,12 @@ const BLOG = {
       cover:'https://p1.music.126.net/gWAve6Vnbv0vd6WKa3tGSA==/109951163173817656.jpg'
     },
     {
+      name:'ギターと孤独と蒼い惑星',
+      artist:' 結束バンド',
+      url:'http://music.163.com/song/media/outer/url?id=1991012773.mp3',
+      cover:'https://p1.music.126.net/rfstzrVK05hCPjU-4mzSFA==/109951167983448236.jpg'
+    },   
+    {
       name:'only my railgun',
       artist:'fripSide',
       url:'http://music.163.com/song/media/outer/url?id=33255251.mp3',
@@ -174,7 +180,7 @@ const BLOG = {
       artist:'XX:me',
       url:'http://music.163.com/song/media/outer/url?id=553930832.mp3',
       cover:'https://p1.music.126.net/TnSHMUAgCr-Xu0uJglOwdQ==/109951163254125253.jpg'
-    },    
+    }, 
     /*{
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
