@@ -92,6 +92,12 @@ const BLOG = {
       cover:'https://p1.music.126.net/gWAve6Vnbv0vd6WKa3tGSA==/109951163173817656.jpg'
     },
     {
+      name:'ささやかな祈り ',
+      artist:'石見舞菜香',
+      url:'http://music.163.com/song/media/outer/url?id=1829893313.mp3',
+      cover:'https://p1.music.126.net/O07sU_CNJqFsSPrEIWiaFw==/109951165849529405.jpg'
+    },
+    {
       name:'ギターと孤独と蒼い惑星',
       artist:' 結束バンド',
       url:'http://music.163.com/song/media/outer/url?id=1991012773.mp3',
@@ -181,6 +187,13 @@ const BLOG = {
       url:'http://music.163.com/song/media/outer/url?id=553930832.mp3',
       cover:'https://p1.music.126.net/TnSHMUAgCr-Xu0uJglOwdQ==/109951163254125253.jpg'
     }, 
+    {
+      name:'ユメヲカケル!',
+      artist:'和氣あず未 / 高野麻里佳 / Machico / 大橋彩香 / 木村千咲 / 上田瞳 / 大西沙織',
+      url:'http://music.163.com/song/media/outer/url?id=1823012873.mp3',
+      cover:'https://p1.music.126.net/DTxLRHOqMC2mP-6ubEdxmA==/109951165849521900.jpg'
+    },
+    
     /*{
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
